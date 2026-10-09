@@ -2,6 +2,9 @@
 
 # A-Maze-ing
 
+> **Note:** The graphical renderer relies on the MiniLibX package
+> provided for the 42 Linux environment and is not supported on macOS.
+
 ## Description
 
 A-Maze-ing is a maze generation project written in Python.
