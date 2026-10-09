@@ -1,5 +1,5 @@
-pycache/
-.py[cod]
+__pycache__/
+*.py[cod]
 
 .venv/
 venv/
@@ -17,7 +17,6 @@ env/
 
 output_file.txt
 
-mlx-.tgz
 *.whl
 ubuntu/
 fedora/
