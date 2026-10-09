@@ -5,6 +5,12 @@
 > **Note:** The graphical renderer relies on the MiniLibX package
 > provided for the 42 Linux environment and is not supported on macOS.
 
+## Preview
+
+| Kruskal (shortest path) | DFS (cyan walls) | Prim (pink walls) |
+|---|---|---|
+| ![kruskal](docs/images/kruskal_path.png) | ![dfs](docs/images/dfs_path_cyan.png) | ![prim](docs/images/prim_pink.png) |
+
 ## Description
 
 A-Maze-ing is a maze generation project written in Python.
